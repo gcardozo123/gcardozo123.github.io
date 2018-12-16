@@ -76,4 +76,6 @@ git push origin --delete <remote_branch>
 
 ## Bonus
 
-If you're on Windows, consider installing <a href="http://cmder.net" target="_blank">Cmder</a>, it's much better than the Windows command prompt.
+If you're on Windows, consider installing <a href="http://cmder.net" target="_blank">Cmder</a>, it's much better than the Windows command prompt.  
+
+<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a coffee', '#151a19', 'M4M4NEUK');kofiwidget2.draw();</script> 
