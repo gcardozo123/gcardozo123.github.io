@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Git Cheat Sheet
+categories: git
 tags: [git, github, tips and tricks]
 date: 2018-04-30T12:27:19-04:00
 ---
